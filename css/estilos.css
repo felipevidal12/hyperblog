@@ -2,8 +2,8 @@ body
 {
     color: rgb(121, 56, 243);
     text-align: left; 
-    font-family: "Arial";
-    font-size: 16px;
+    font-family: "CalibriCondenser";
+    font-size: 25px;
 }
 #container
 {
@@ -17,6 +17,6 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 23px;
 
 }
